@@ -1,6 +1,5 @@
 # My Portfolio: kanangnut.github.io
 
-![01](https://github.com/Kanangnut/kanangnut.github.io/assets/130201193/2402da76-45e6-49b5-92ba-693f4af0dadc)
 ![02](https://github.com/Kanangnut/kanangnut.github.io/assets/130201193/3633f34d-6d4d-460a-9731-28f74cc13921)
 ![03](https://github.com/Kanangnut/kanangnut.github.io/assets/130201193/70a1f618-ea56-4ddd-a6af-518487fcf6c6)
 <br>
